@@ -1,0 +1,20 @@
+{
+  "name": "teste_formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4",
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}
